@@ -9,4 +9,4 @@ OPENMM script to simulate coarse-grained DNA in explicit ion
 7. On making changes to the file "user_input.py", run the script "generate_all_atm_cg.py"
 8. Following that, run the packmol script to generate the final input pdb structure, "packmol<packmol_input.inp"
 9. once the pdb file has been generated, run the command "python simulation_run.py"
-10. go to Releases/v0.0.0-TIS-ION to find the updated code
+10. go to Releases/v1.0.0-TIS-ION to find the updated code
